@@ -1,0 +1,4 @@
+$kind: http-request
+url: "{{baseUrl}}/api/estudiantes/buscar/carrera?carrera=Ingenier%C3%ADa%20de%20Sistemas"
+method: GET
+order: 3000

@@ -1,0 +1,15 @@
+$kind: http-request
+url: "{{baseUrl}}/api/aulas"
+method: POST
+headers:
+  Content-Type: application/json
+body:
+  type: json
+  content: |-
+    {
+      "id": 10,
+      "edificio": "Bloque A",
+      "numeroAula": "101",
+      "capacidad": 30
+    }
+order: 2000

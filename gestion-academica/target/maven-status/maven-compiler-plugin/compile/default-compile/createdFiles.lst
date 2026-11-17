@@ -1,0 +1,13 @@
+com\ejemplo\gestionacademica\service\AsignaturaService.class
+com\ejemplo\gestionacademica\repository\EstudianteRepository.class
+com\ejemplo\gestionacademica\controller\AsignaturaController.class
+com\ejemplo\gestionacademica\model\Aula.class
+com\ejemplo\gestionacademica\controller\AulaController.class
+com\ejemplo\gestionacademica\controller\EstudianteController.class
+com\ejemplo\gestionacademica\model\Asignatura.class
+com\ejemplo\gestionacademica\GestionAcademicaApplication.class
+com\ejemplo\gestionacademica\service\AulaService.class
+com\ejemplo\gestionacademica\model\Estudiante.class
+com\ejemplo\gestionacademica\service\EstudianteService.class
+com\ejemplo\gestionacademica\repository\AulaRepository.class
+com\ejemplo\gestionacademica\repository\AsignaturaRepository.class

@@ -1,0 +1,14 @@
+$kind: http-request
+url: "{{baseUrl}}/api/asignaturas"
+method: POST
+headers:
+  Content-Type: application/json
+body:
+  type: json
+  content: |-
+    {
+      "nombre": "Redes",
+      "creditos": 3,
+      "departamento": "Ingeniería de Sistemas"
+    }
+order: 2000

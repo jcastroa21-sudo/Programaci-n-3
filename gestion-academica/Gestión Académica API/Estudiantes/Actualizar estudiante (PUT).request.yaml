@@ -1,0 +1,15 @@
+$kind: http-request
+url: "{{baseUrl}}/api/estudiantes/1"
+method: PUT
+headers:
+  Content-Type: application/json
+body:
+  type: json
+  content: |-
+    {
+      "codigoMatricula": "2026001",
+      "nombreCompleto": "Jesus David Castro",
+      "carrera": "Ingeniería de Sistemas",
+      "asignaturas": [{"id": 1}]
+    }
+order: 5000

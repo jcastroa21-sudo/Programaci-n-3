@@ -1,0 +1,4 @@
+$kind: http-request
+url: "{{baseUrl}}/api/asignaturas/buscar/departamento?departamento=Ingenier%C3%ADa%20de%20Sistemas"
+method: GET
+order: 3000
